@@ -11,7 +11,7 @@ document.addEventListener('click',e=>{
  const tab=e.target.closest('[data-screen-index]');
  if(tab){const deck=tab.closest('[data-screen-deck]'),n=Number(tab.dataset.screenIndex);$$('.screen-figure',deck).forEach((f,i)=>f.hidden=i!==n);$$('[data-screen-index]',deck).forEach((b,i)=>b.setAttribute('aria-pressed',String(i===n)));}
  const b=e.target.closest('[data-zoom]');
- if(b&&viewer){const img=$('img',b),big=$('img',viewer);big.src=img.src;big.alt=img.alt;$('.screen-view-caption',viewer).textContent=$('figcaption',b.closest('figure')).textContent;viewer.showModal();}
+ if(b&&viewer){const img=$('img',b),big=$('img',viewer),cap=$('figcaption',b.closest('figure'));big.src=img.src;big.alt=img.alt;$('.screen-view-caption',viewer).textContent=[...cap.children].map(c=>c.textContent).join(' — ');viewer.showModal();}
  if(e.target.closest('[data-zoom-close]'))viewer?.close();
 });
 viewer?.addEventListener('click',e=>{if(e.target===viewer)viewer.close()});
