@@ -1,5 +1,5 @@
 시작 index.html
-발표 slides.html: 56장, 화살표·목차·번호 이동
+발표 slides.html: 42장, 화살표·목차·번호 이동
 자습 selfstudy.html: Gemini·Claude·접속 없는 복습 경로
 교안 guide.html: 26항목, 전체 위치·조작 부분, 입력·정상 결과·오류 대응
 이미지 확대: 조작 부분/전체 위치, 화면 맞춤/원본 100%, 배율과 끌기

@@ -1,0 +1,1119 @@
+{
+  "app-input": {
+    "source": "chrome-example-input-whole-r4.png",
+    "site": "연수자료의 연습 도구",
+    "url": "practice/app.html",
+    "place": "연수자료 안에서 제공하는 완성 예제",
+    "arrive": "연수자료 → 실습자료 → 행사 안내문 연습 도구를 연 화면입니다. Gemini·Claude의 메뉴 화면이 아닙니다.",
+    "after": "왼쪽에 정보를 넣습니다. 실행 버튼은 이 화면 아래에 있으므로 다음 단계에서 아래로 내립니다.",
+    "marks": [
+      [
+        "입력하는 곳",
+        [
+          115,
+          335,
+          658,
+          720
+        ]
+      ],
+      [
+        "아직 실행 전인 결과 자리",
+        [
+          680,
+          320,
+          1220,
+          750
+        ]
+      ]
+    ],
+    "width": 1351,
+    "height": 760,
+    "privacy_masks": []
+  },
+  "app-result": {
+    "source": "chrome-example-result-whole-r4.png",
+    "site": "연수자료의 연습 도구",
+    "url": "practice/app.html",
+    "place": "연수자료 안에서 제공하는 완성 예제",
+    "arrive": "같은 도구에서 예시 버튼을 누르고 위로 올라온 화면입니다.",
+    "after": "입력값과 오른쪽 결과를 대조합니다. 이 기본 모드는 AI에 접속하지 않습니다.",
+    "marks": [
+      [
+        "입력값",
+        [
+          115,
+          335,
+          658,
+          720
+        ]
+      ],
+      [
+        "만들어진 안내문",
+        [
+          680,
+          420,
+          1220,
+          758
+        ]
+      ]
+    ],
+    "width": 1351,
+    "height": 760,
+    "privacy_masks": []
+  },
+  "app-copy": {
+    "source": "chrome-app-copy.png",
+    "site": "연수자료의 연습 도구",
+    "url": "practice/app.html",
+    "place": "연수자료 안에서 제공하는 완성 예제",
+    "arrive": "연수자료 → 실습자료 → 행사 안내문 연습 도구를 연 화면입니다. Gemini·Claude의 메뉴 화면이 아닙니다.",
+    "after": "결과 아래 복사 또는 인쇄 버튼을 누릅니다.",
+    "marks": [
+      [
+        "복사·인쇄",
+        [
+          680,
+          130,
+          1230,
+          650
+        ]
+      ]
+    ],
+    "width": 1357,
+    "height": 754,
+    "privacy_masks": []
+  },
+  "school-home": {
+    "source": "chrome-schoolinfo.png",
+    "site": "학교알리미",
+    "url": "https://www.schoolinfo.go.kr/ei/ss/Pneiss_b01_s0.do?SHL_IDF_CD=856240f4-4a72-44c6-a032-3230ad66b9ea",
+    "place": "대신고 공개자료를 읽는 사이트",
+    "arrive": "연수자료의 학교알리미 링크 → 대신고등학교 페이지입니다.",
+    "after": "학교명과 연도를 먼저 확인한 뒤 필요한 공개 문서를 엽니다.",
+    "marks": [],
+    "width": 1357,
+    "height": 754,
+    "privacy_masks": []
+  },
+  "school-files": {
+    "source": "chrome-schoolinfo-files.png",
+    "site": "학교알리미",
+    "url": "https://www.schoolinfo.go.kr/ei/ss/Pneiss_b01_s0.do?SHL_IDF_CD=856240f4-4a72-44c6-a032-3230ad66b9ea",
+    "place": "대신고 공개자료를 읽는 사이트",
+    "arrive": "대신고 학교알리미 → 페이지 아래 공시정보 → 교육활동입니다.",
+    "after": "학교교육과정 편성·운영·평가 항목에서 문서 제목과 공시년월을 확인합니다.",
+    "marks": [
+      [
+        "공시정보·교육활동",
+        [
+          150,
+          210,
+          1200,
+          450
+        ]
+      ],
+      [
+        "문서 목록",
+        [
+          150,
+          510,
+          1200,
+          750
+        ]
+      ]
+    ],
+    "width": 1357,
+    "height": 754,
+    "privacy_masks": []
+  },
+  "gemini-start": {
+    "source": "chrome-gemini-start-context-r2.png",
+    "site": "Gemini",
+    "url": "https://gemini.google.com/",
+    "place": "AI에게 도구를 만들어 달라고 요청하는 사이트",
+    "arrive": "새 탭에서 Gemini 주소 열기 → 로그인. 아직 요청을 보내지 않은 첫 화면입니다.",
+    "after": "입력창 왼쪽 +를 누르면 도구 목록이 열립니다.",
+    "marks": [
+      [
+        "+ 버튼",
+        [
+          668,
+          492,
+          710,
+          539
+        ]
+      ]
+    ],
+    "width": 1919,
+    "height": 1031,
+    "privacy_masks": [
+      [
+        0,
+        959,
+        135,
+        1031
+      ]
+    ]
+  },
+  "gemini-tools": {
+    "source": "chrome-gemini-tools.png",
+    "site": "Gemini",
+    "url": "https://gemini.google.com/",
+    "place": "AI에게 도구를 만들어 달라고 요청하는 사이트",
+    "arrive": "Gemini 첫 화면 → 가운데 입력창 왼쪽 +를 누른 상태입니다.",
+    "after": "목록의 Canvas를 누릅니다. 안 보일 때만 도구 더보기를 엽니다.",
+    "marks": [
+      [
+        "펼쳐진 도구 목록",
+        [
+          385,
+          395,
+          875,
+          700
+        ]
+      ]
+    ],
+    "width": 1372,
+    "height": 762,
+    "privacy_masks": [
+      [
+        0,
+        690,
+        135,
+        762
+      ]
+    ]
+  },
+  "gemini-canvas": {
+    "source": "chrome-gemini-canvas-direct-r2.png",
+    "site": "Gemini",
+    "url": "https://gemini.google.com/",
+    "place": "AI에게 도구를 만들어 달라고 요청하는 사이트",
+    "arrive": "Gemini → 가운데 입력창 왼쪽 +. 아래는 목록에 Canvas가 직접 보이는 화면입니다.",
+    "after": "Canvas를 누르면 입력창에 Canvas 선택 표시가 붙습니다.",
+    "marks": [
+      [
+        "Canvas",
+        [
+          680,
+          780,
+          920,
+          822
+        ]
+      ]
+    ],
+    "width": 1919,
+    "height": 1031,
+    "privacy_masks": [
+      [
+        0,
+        959,
+        135,
+        1031
+      ]
+    ]
+  },
+  "gemini-more": {
+    "source": "chrome-gemini-canvas-choice.png",
+    "site": "Gemini",
+    "url": "https://gemini.google.com/",
+    "place": "AI에게 도구를 만들어 달라고 요청하는 사이트",
+    "arrive": "Gemini → + → 도구 더보기. Canvas가 첫 목록에 없을 때의 다른 배치입니다.",
+    "after": "Canvas를 선택한 뒤 첫 요청을 붙여 넣습니다.",
+    "marks": [
+      [
+        "Canvas",
+        [
+          395,
+          535,
+          865,
+          695
+        ]
+      ]
+    ],
+    "width": 1372,
+    "height": 762,
+    "privacy_masks": [
+      [
+        0,
+        690,
+        135,
+        762
+      ]
+    ]
+  },
+  "gemini-prompt": {
+    "source": "chrome-gemini-prompt-context-r2.png",
+    "site": "Gemini",
+    "url": "https://gemini.google.com/",
+    "place": "AI에게 도구를 만들어 달라고 요청하는 사이트",
+    "arrive": "Gemini → + → Canvas 선택 → 같은 입력창에 첫 요청을 붙여 넣었습니다.",
+    "after": "오른쪽 보내기 화살표를 누르면 AI가 도구를 만듭니다.",
+    "marks": [
+      [
+        "요청을 쓰는 곳",
+        [
+          650,
+          475,
+          1330,
+          735
+        ]
+      ],
+      [
+        "보내기",
+        [
+          1290,
+          670,
+          1328,
+          714
+        ]
+      ]
+    ],
+    "width": 1919,
+    "height": 1031,
+    "privacy_masks": [
+      [
+        0,
+        959,
+        135,
+        1031
+      ]
+    ]
+  },
+  "gemini-app-form": {
+    "source": "chrome-gemini-app-ready-2x.png",
+    "site": "Gemini",
+    "url": "https://gemini.google.com/",
+    "place": "AI에게 도구를 만들어 달라고 요청하는 사이트",
+    "arrive": "Gemini가 만든 Canvas 앱 → 미리보기 → 전체 화면으로 넓힌 상태입니다.",
+    "after": "왼쪽에 입력하면 오른쪽 안내문이 바뀝니다. 대화로 돌아갈 때는 접기/물어보기를 사용합니다.",
+    "marks": [
+      [
+        "내가 입력하는 곳",
+        [
+          195,
+          950,
+          1920,
+          2170
+        ]
+      ],
+      [
+        "완성 안내문",
+        [
+          2090,
+          990,
+          3660,
+          2110
+        ]
+      ]
+    ],
+    "width": 3915,
+    "height": 2250,
+    "privacy_masks": []
+  },
+  "gemini-app-result": {
+    "source": "chrome-gemini-app-ready-2x.png",
+    "site": "Gemini",
+    "url": "https://gemini.google.com/",
+    "place": "AI에게 도구를 만들어 달라고 요청하는 사이트",
+    "arrive": "Gemini가 만든 Canvas 앱 → 미리보기 → 전체 화면으로 넓힌 상태입니다.",
+    "after": "행사명·대상·준비물은 입력과 같고, 비워 둔 날짜와 장소는 확인 필요로 남아야 합니다.",
+    "marks": [
+      [
+        "입력값",
+        [
+          195,
+          950,
+          1920,
+          2170
+        ]
+      ],
+      [
+        "결과를 읽는 곳",
+        [
+          2090,
+          1160,
+          3660,
+          1950
+        ]
+      ]
+    ],
+    "width": 3915,
+    "height": 2250,
+    "privacy_masks": []
+  },
+  "gemini-revise": {
+    "source": "chrome-gemini-revise.png",
+    "site": "Gemini",
+    "url": "https://gemini.google.com/",
+    "place": "AI에게 도구를 만들어 달라고 요청하는 사이트",
+    "arrive": "만들던 Gemini 대화로 돌아온 상태입니다. 새 채팅을 만들지 않습니다.",
+    "after": "아래 입력창에 수정 요청을 쓰고 보낸 뒤, 같은 앱을 다시 시험합니다.",
+    "marks": [
+      [
+        "수정 요청 입력창",
+        [
+          275,
+          475,
+          1065,
+          695
+        ]
+      ]
+    ],
+    "width": 1372,
+    "height": 762,
+    "privacy_masks": [
+      [
+        0,
+        690,
+        135,
+        762
+      ],
+      [
+        0,
+        0,
+        235,
+        762
+      ]
+    ]
+  },
+  "gemini-export": {
+    "source": "chrome-gemini-export-context-r2.png",
+    "site": "Gemini",
+    "url": "https://gemini.google.com/",
+    "place": "AI에게 도구를 만들어 달라고 요청하는 사이트",
+    "arrive": "Gemini Canvas 앱 위쪽 → 내보내기를 누른 상태입니다.",
+    "after": "코드 다운로드로 받은 .html 파일을 브라우저로 다시 엽니다.",
+    "marks": [
+      [
+        "내보내기 메뉴",
+        [
+          900,
+          0,
+          1210,
+          165
+        ]
+      ]
+    ],
+    "width": 1372,
+    "height": 762,
+    "privacy_masks": [
+      [
+        0,
+        690,
+        135,
+        762
+      ]
+    ]
+  },
+  "claude-prompt": {
+    "source": "chrome-claude-prompt-whole-r4.png",
+    "site": "Claude",
+    "url": "https://claude.ai/",
+    "place": "AI에게 도구를 만들어 달라고 요청하는 사이트",
+    "arrive": "Claude 새 채팅 → 가운데 입력창에 웹앱 제작 요청을 붙여 넣었습니다.",
+    "after": "입력창 오른쪽의 위쪽 화살표를 눌러 전송합니다.",
+    "marks": [
+      [
+        "요청을 쓰는 곳",
+        [
+          630,
+          395,
+          1290,
+          540
+        ]
+      ],
+      [
+        "보내기",
+        [
+          1245,
+          490,
+          1285,
+          532
+        ]
+      ]
+    ],
+    "width": 1919,
+    "height": 1031,
+    "privacy_masks": []
+  },
+  "claude-card": {
+    "source": "chrome-claude-card-context-r3.png",
+    "site": "Claude",
+    "url": "https://claude.ai/",
+    "place": "AI에게 도구를 만들어 달라고 요청하는 사이트",
+    "arrive": "Claude에 요청을 보낸 뒤 응답 안에 앱 카드가 나타난 화면입니다.",
+    "after": "표시한 앱 카드를 누르면 같은 탭 오른쪽에 앱이 열립니다.",
+    "marks": [
+      [
+        "앱을 여는 카드",
+        [
+          590,
+          525,
+          1120,
+          600
+        ]
+      ]
+    ],
+    "width": 1919,
+    "height": 1031,
+    "privacy_masks": [
+      [
+        570,
+        45,
+        1380,
+        195
+      ]
+    ]
+  },
+  "claude-form": {
+    "source": "chrome-claude-form-context-r2.png",
+    "site": "Claude",
+    "url": "https://claude.ai/",
+    "place": "AI에게 도구를 만들어 달라고 요청하는 사이트",
+    "arrive": "Claude 응답의 앱 카드를 눌렀습니다. 왼쪽은 대화, 오른쪽은 만들어진 앱입니다.",
+    "after": "오른쪽 앱에서 행사명·대상·준비물을 입력하고 날짜·장소는 비워 둡니다.",
+    "marks": [
+      [
+        "AI와 대화하는 곳",
+        [
+          15,
+          45,
+          420,
+          805
+        ]
+      ],
+      [
+        "만든 앱을 쓰는 곳",
+        [
+          540,
+          55,
+          1250,
+          800
+        ]
+      ]
+    ],
+    "width": 1372,
+    "height": 818,
+    "privacy_masks": []
+  },
+  "claude-input": {
+    "source": "chrome-claude-form-context-r2.png",
+    "site": "Claude",
+    "url": "https://claude.ai/",
+    "place": "AI에게 도구를 만들어 달라고 요청하는 사이트",
+    "arrive": "Claude 응답의 앱 카드를 눌렀습니다. 왼쪽은 대화, 오른쪽은 만들어진 앱입니다.",
+    "after": "앱 안의 안내문 만들기 버튼을 누릅니다.",
+    "marks": [
+      [
+        "대상·준비물 입력",
+        [
+          545,
+          480,
+          1240,
+          700
+        ]
+      ],
+      [
+        "앱 실행 버튼",
+        [
+          555,
+          725,
+          1230,
+          790
+        ]
+      ]
+    ],
+    "width": 1372,
+    "height": 818,
+    "privacy_masks": []
+  },
+  "claude-run": {
+    "source": "chrome-claude-result-context-r2.png",
+    "site": "Claude",
+    "url": "https://claude.ai/",
+    "place": "AI에게 도구를 만들어 달라고 요청하는 사이트",
+    "arrive": "Claude 응답의 앱 카드를 눌렀습니다. 왼쪽은 대화, 오른쪽은 만들어진 앱입니다.",
+    "after": "대화 보내기가 아닌, 오른쪽 앱 안의 안내문 만들기를 누릅니다.",
+    "marks": [
+      [
+        "앱 실행 버튼",
+        [
+          560,
+          262,
+          1225,
+          315
+        ]
+      ]
+    ],
+    "width": 1372,
+    "height": 818,
+    "privacy_masks": []
+  },
+  "claude-result": {
+    "source": "chrome-claude-result-context-r2.png",
+    "site": "Claude",
+    "url": "https://claude.ai/",
+    "place": "AI에게 도구를 만들어 달라고 요청하는 사이트",
+    "arrive": "오른쪽 앱의 안내문 만들기를 누른 뒤 아래로 내려온 화면입니다.",
+    "after": "입력한 사실과 확인 필요 표시를 읽은 다음, 결과 복사를 누릅니다.",
+    "marks": [
+      [
+        "생성된 안내문",
+        [
+          545,
+          340,
+          1240,
+          675
+        ]
+      ],
+      [
+        "결과 복사",
+        [
+          550,
+          680,
+          650,
+          735
+        ]
+      ]
+    ],
+    "width": 1372,
+    "height": 818,
+    "privacy_masks": []
+  },
+  "claude-copy": {
+    "source": "chrome-claude-copy-context-r2.png",
+    "site": "Claude",
+    "url": "https://claude.ai/",
+    "place": "AI에게 도구를 만들어 달라고 요청하는 사이트",
+    "arrive": "오른쪽 앱의 안내문 만들기를 누른 뒤 아래로 내려온 화면입니다.",
+    "after": "결과 복사를 누르고 메모장에 Ctrl+V로 붙여 넣습니다.",
+    "marks": [
+      [
+        "결과 복사",
+        [
+          545,
+          670,
+          690,
+          730
+        ]
+      ]
+    ],
+    "width": 1372,
+    "height": 818,
+    "privacy_masks": []
+  },
+  "claude-export": {
+    "source": "chrome-claude-export-context-r2.png",
+    "site": "Claude",
+    "url": "https://claude.ai/",
+    "place": "AI에게 도구를 만들어 달라고 요청하는 사이트",
+    "arrive": "Claude 오른쪽 앱의 맨 위 → 내보내기를 누른 상태입니다.",
+    "after": "HTML을 선택합니다. 받은 파일이 브라우저에서 열리는 앱 파일입니다.",
+    "marks": [
+      [
+        "내보내기",
+        [
+          1160,
+          3,
+          1250,
+          43
+        ]
+      ],
+      [
+        "HTML 선택",
+        [
+          940,
+          157,
+          1345,
+          207
+        ]
+      ]
+    ],
+    "width": 1372,
+    "height": 818,
+    "privacy_masks": []
+  },
+  "claude-error": {
+    "source": "chrome-claude-preview-error.png",
+    "site": "Claude",
+    "url": "https://claude.ai/",
+    "place": "AI에게 도구를 만들어 달라고 요청하는 사이트",
+    "arrive": "Claude에서 앱 카드를 열었지만 앱 영역에 로딩 오류가 나타난 실제 화면입니다.",
+    "after": "다시 열어 보고, 계속 막히면 연수자료의 연습 도구를 사용합니다.",
+    "marks": [
+      [
+        "앱 영역의 오류",
+        [
+          230,
+          270,
+          720,
+          470
+        ]
+      ]
+    ],
+    "width": 940,
+    "height": 760,
+    "privacy_masks": []
+  },
+  "api-request": {
+    "source": "chrome-claude-form-context-r2.png",
+    "site": "Claude",
+    "url": "https://claude.ai/",
+    "place": "AI에게 도구를 만들어 달라고 요청하는 사이트",
+    "arrive": "처음 앱을 만들던 Claude 대화와 앱입니다. 추가 요청도 같은 대화에 씁니다.",
+    "after": "왼쪽 아래 입력창에 Solar 추가 문구를 붙여 넣습니다. 실제 키는 대화에 쓰지 않습니다.",
+    "marks": [
+      [
+        "추가 요청을 쓰는 곳",
+        [
+          15,
+          710,
+          420,
+          775
+        ]
+      ]
+    ],
+    "width": 1372,
+    "height": 818,
+    "privacy_masks": []
+  },
+  "key-input": {
+    "source": "chrome-app-key-context-r2.png",
+    "site": "연수자료의 연습 도구",
+    "url": "practice/app.html",
+    "place": "연수자료 안에서 제공하는 완성 예제",
+    "arrive": "연습 도구에서 아래로 스크롤 → 선택·Solar 연결 체험 부분입니다.",
+    "after": "실행 방식을 Solar 실제 호출로 바꾸면 키 입력칸이 보입니다.",
+    "marks": [
+      [
+        "실행 방식",
+        [
+          460,
+          524,
+          800,
+          576
+        ]
+      ],
+      [
+        "키 입력칸",
+        [
+          640,
+          610,
+          850,
+          669
+        ]
+      ]
+    ],
+    "width": 1905,
+    "height": 1023,
+    "privacy_masks": []
+  },
+  "key-call": {
+    "source": "chrome-app-key-context-r2.png",
+    "site": "연수자료의 연습 도구",
+    "url": "practice/app.html",
+    "place": "연수자료 안에서 제공하는 완성 예제",
+    "arrive": "연습 도구에서 아래로 스크롤 → 선택·Solar 연결 체험 부분입니다.",
+    "after": "가상 자료와 안전 확인을 읽고 실제 호출 버튼을 한 번 누릅니다.",
+    "marks": [
+      [
+        "확인 항목",
+        [
+          390,
+          694,
+          1220,
+          732
+        ]
+      ],
+      [
+        "호출 버튼",
+        [
+          390,
+          747,
+          576,
+          796
+        ]
+      ]
+    ],
+    "width": 1905,
+    "height": 1023,
+    "privacy_masks": []
+  },
+  "key-error": {
+    "source": "chrome-app-error-context-r2.png",
+    "site": "연수자료의 연습 도구",
+    "url": "practice/app.html",
+    "place": "연수자료 안에서 제공하는 완성 예제",
+    "arrive": "연습 도구 → Solar 실제 호출 → 키를 넣지 않고 실행한 화면입니다.",
+    "after": "오류 문장을 읽습니다. 같은 버튼을 반복 누르지 말고 예시 모드로 돌아갈 수 있습니다.",
+    "marks": [
+      [
+        "오류 안내",
+        [
+          390,
+          785,
+          1270,
+          855
+        ]
+      ]
+    ],
+    "width": 1905,
+    "height": 1023,
+    "privacy_masks": []
+  },
+  "key-clear": {
+    "source": "chrome-app-clear-context-r2.png",
+    "site": "연수자료의 연습 도구",
+    "url": "practice/app.html",
+    "place": "연수자료 안에서 제공하는 완성 예제",
+    "arrive": "연습 도구에서 아래로 스크롤 → 선택·Solar 연결 체험 부분입니다.",
+    "after": "촬영·공유·저장 전에 키 지우기를 누르고 입력칸이 비었는지 확인합니다.",
+    "marks": [
+      [
+        "키 지우기",
+        [
+          586,
+          747,
+          690,
+          796
+        ]
+      ]
+    ],
+    "width": 1905,
+    "height": 1023,
+    "privacy_masks": []
+  },
+  "comparison": {
+    "source": "chrome-comparison.png",
+    "site": "연수자료의 연습 도구",
+    "url": "practice/app.html",
+    "place": "연수자료 안에서 제공하는 완성 예제",
+    "arrive": "연수자료 → 실습자료 → 무료·유료 비교 기록표입니다.",
+    "after": "같은 원문·요청·시간으로 실제 만든 결과를 기록합니다. 비어 있는 칸은 미측정입니다.",
+    "marks": [],
+    "width": 1357,
+    "height": 754,
+    "privacy_masks": []
+  },
+  "cost": {
+    "source": "chrome-cost.png",
+    "site": "연수자료의 연습 도구",
+    "url": "practice/app.html",
+    "place": "연수자료 안에서 제공하는 완성 예제",
+    "arrive": "연수자료 → 실습자료 → 한 건 비용 계산기입니다.",
+    "after": "초깃값은 계산 예시입니다. 실제 호출 뒤 받은 사용량으로 바꿉니다.",
+    "marks": [],
+    "width": 1357,
+    "height": 754,
+    "privacy_masks": []
+  },
+  "s2b-chatgpt": {
+    "source": "chrome-s2b-chatgpt.png",
+    "site": "S2B 에듀테크몰",
+    "url": "https://s2b.kr/Edutech/product/productDetail.do?estimatecode=202609099423178",
+    "place": "학교 구매 상품의 조건을 확인하는 사이트",
+    "arrive": "S2B 에듀테크몰에서 상품명을 검색해 상품 상세를 연 화면입니다.",
+    "after": "오른쪽에서 상품명·물품번호 → 인원/기간 → 해당 가격을 순서대로 읽습니다.",
+    "marks": [
+      [
+        "상품명·물품번호",
+        [
+          710,
+          95,
+          1260,
+          245
+        ]
+      ],
+      [
+        "기간별 가격",
+        [
+          710,
+          250,
+          1260,
+          445
+        ]
+      ]
+    ],
+    "width": 1357,
+    "height": 754,
+    "privacy_masks": []
+  },
+  "s2b-claude": {
+    "source": "chrome-s2b-claude.png",
+    "site": "S2B 에듀테크몰",
+    "url": "https://s2b.kr/Edutech/product/productDetail.do?estimatecode=202603247482006",
+    "place": "학교 구매 상품의 조건을 확인하는 사이트",
+    "arrive": "S2B 에듀테크몰에서 상품명을 검색해 상품 상세를 연 화면입니다.",
+    "after": "오른쪽에서 상품명·물품번호 → 인원/기간 → 해당 가격을 순서대로 읽습니다.",
+    "marks": [
+      [
+        "상품명·물품번호",
+        [
+          710,
+          95,
+          1260,
+          245
+        ]
+      ],
+      [
+        "기간별 가격",
+        [
+          710,
+          250,
+          1260,
+          445
+        ]
+      ]
+    ],
+    "width": 1357,
+    "height": 754,
+    "privacy_masks": []
+  },
+  "s2b-gemini": {
+    "source": "chrome-s2b-gemini.png",
+    "site": "S2B 에듀테크몰",
+    "url": "https://s2b.kr/Edutech/product/productDetail.do?estimatecode=202509144590936",
+    "place": "학교 구매 상품의 조건을 확인하는 사이트",
+    "arrive": "S2B 에듀테크몰에서 상품명을 검색해 상품 상세를 연 화면입니다.",
+    "after": "오른쪽에서 상품명·물품번호 → 인원/기간 → 해당 가격을 순서대로 읽습니다.",
+    "marks": [
+      [
+        "상품명·물품번호",
+        [
+          710,
+          95,
+          1260,
+          245
+        ]
+      ],
+      [
+        "기간별 가격",
+        [
+          710,
+          250,
+          1260,
+          445
+        ]
+      ]
+    ],
+    "width": 1357,
+    "height": 754,
+    "privacy_masks": []
+  },
+  "s2b-grok": {
+    "source": "chrome-s2b-grok.png",
+    "site": "S2B 에듀테크몰",
+    "url": "https://s2b.kr/Edutech/product/productDetail.do?estimatecode=202607139022734",
+    "place": "학교 구매 상품의 조건을 확인하는 사이트",
+    "arrive": "S2B 에듀테크몰에서 상품명을 검색해 상품 상세를 연 화면입니다.",
+    "after": "오른쪽에서 상품명·물품번호 → 인원/기간 → 해당 가격을 순서대로 읽습니다.",
+    "marks": [
+      [
+        "상품명·물품번호",
+        [
+          710,
+          95,
+          1260,
+          245
+        ]
+      ],
+      [
+        "기간별 가격",
+        [
+          710,
+          250,
+          1260,
+          445
+        ]
+      ]
+    ],
+    "width": 1345,
+    "height": 747,
+    "privacy_masks": []
+  },
+  "solar-start": {
+    "source": "chrome-solar-chat.png",
+    "site": "Solar Chat",
+    "url": "https://solar-chat.upstage.ai/chat",
+    "place": "무료 채팅으로 글을 요청하는 별도 사이트",
+    "arrive": "별도 새 탭에서 Solar Chat 주소를 연 첫 화면입니다.",
+    "after": "가운데 입력창에 가상 행사 정보를 적고 보내면 문장 초안을 받습니다.",
+    "marks": [
+      [
+        "무료 채팅 입력창",
+        [
+          460,
+          280,
+          1240,
+          550
+        ]
+      ]
+    ],
+    "width": 1372,
+    "height": 762,
+    "privacy_masks": []
+  },
+  "solar-answer": {
+    "source": "chrome-solar-response.png",
+    "site": "Solar Chat",
+    "url": "https://solar-chat.upstage.ai/chat",
+    "place": "무료 채팅으로 글을 요청하는 별도 사이트",
+    "arrive": "Solar Chat에 가상 행사 정보를 보내 답을 받은 화면입니다.",
+    "after": "날짜·장소가 확인 필요로 남는지 읽습니다. 내 앱의 API 성공 화면은 아닙니다.",
+    "marks": [
+      [
+        "응답",
+        [
+          395,
+          280,
+          825,
+          465
+        ]
+      ]
+    ],
+    "width": 1372,
+    "height": 762,
+    "privacy_masks": []
+  },
+  "initiative": {
+    "source": "chrome-initiative.png",
+    "site": "Upstage 공식 신청 페이지",
+    "url": "https://www.upstage.ai/events/ai-initiative-2026-ko",
+    "place": "지원사업 조건을 확인하는 사이트",
+    "arrive": "공식 지원사업 링크를 연 신청 페이지입니다.",
+    "after": "대상·기한·승인 조건을 읽고 기관 담당자와 확인합니다.",
+    "marks": [],
+    "width": 1271,
+    "height": 450,
+    "privacy_masks": []
+  },
+  "app-mobile": {
+    "source": "chrome-app-mobile-result-r2.png",
+    "site": "연수자료의 연습 도구",
+    "url": "practice/app.html",
+    "place": "연수자료 안에서 제공하는 완성 예제",
+    "arrive": "연수자료 → 실습자료 → 행사 안내문 연습 도구를 연 화면입니다. Gemini·Claude의 메뉴 화면이 아닙니다.",
+    "after": "직접 만든 앱의 모양과 다르면 이 연습 도구로 같은 동작을 먼저 확인합니다.",
+    "marks": [],
+    "width": 375,
+    "height": 812,
+    "privacy_masks": []
+  },
+  "gemini-preview": {
+    "source": "chrome-gemini-preview-controls-whole-r4.png",
+    "site": "Gemini Canvas",
+    "url": "https://gemini.google.com/",
+    "place": "제작 대화 안에서 앱을 여는 곳",
+    "arrive": "Gemini 제작 대화의 아래쪽에 나타난 Canvas입니다. 앱을 불러오는 중의 메뉴 위치 예입니다.",
+    "after": "미리보기 선택 → 오른쪽 전체 화면을 누릅니다. 계속 회색이면 오류 대응을 확인합니다.",
+    "marks": [
+      [
+        "미리보기",
+        [
+          1048,
+          432,
+          1138,
+          474
+        ]
+      ],
+      [
+        "전체 화면",
+        [
+          1350,
+          432,
+          1388,
+          474
+        ]
+      ]
+    ],
+    "width": 1919,
+    "height": 1031,
+    "privacy_masks": [
+      [
+        0,
+        959,
+        135,
+        1031
+      ]
+    ]
+  },
+  "claude-home": {
+    "source": "chrome-claude-home-whole-r4.png",
+    "site": "Claude",
+    "url": "https://claude.ai/",
+    "place": "AI에게 도구를 만들어 달라고 요청하는 사이트",
+    "arrive": "새 탭에서 Claude 주소 열기 → 로그인. 새 채팅 화면입니다.",
+    "after": "가운데 큰 입력창에 첫 요청을 붙여 넣습니다.",
+    "marks": [
+      [
+        "첫 요청 입력창",
+        [
+          630,
+          390,
+          1290,
+          505
+        ]
+      ]
+    ],
+    "width": 1919,
+    "height": 1031,
+    "privacy_masks": []
+  },
+  "claude-revise": {
+    "source": "chrome-claude-form-context-r2.png",
+    "site": "Claude",
+    "url": "https://claude.ai/",
+    "place": "도구를 고치는 제작 대화",
+    "arrive": "Claude에서 앱 카드를 연 전체 화면입니다. 수정할 때는 왼쪽 아래 대화 입력창으로 돌아갑니다.",
+    "after": "아래 수정 문구를 왼쪽 대화창에 보내고 오른쪽 앱을 다시 시험합니다.",
+    "marks": [
+      [
+        "수정 요청 입력창",
+        [
+          15,
+          710,
+          420,
+          775
+        ]
+      ]
+    ],
+    "width": 1372,
+    "height": 818,
+    "privacy_masks": []
+  },
+  "app-run": {
+    "source": "chrome-example-run-whole-r4.png",
+    "site": "연수자료의 연습 도구",
+    "url": "practice/app.html",
+    "place": "입력 뒤 실행하는 곳",
+    "arrive": "같은 연습 도구에서 아래로 내린 화면입니다. 왼쪽 입력칸 맨 아래에 실행 버튼이 있습니다.",
+    "after": "안내문 만들기·예시를 누른 뒤 위로 조금 올려 오른쪽 결과를 읽습니다.",
+    "marks": [
+      [
+        "안내문 만들기·예시",
+        [
+          115,
+          368,
+          297,
+          416
+        ]
+      ]
+    ],
+    "width": 1351,
+    "height": 760,
+    "privacy_masks": []
+  },
+  "app-print": {
+    "source": "../lesson-images/app-print-context.webp",
+    "site": "연습 도구의 인쇄 결과",
+    "url": "practice/app.html",
+    "place": "브라우저에서 출력한 안내문",
+    "arrive": "연습 도구에서 결과 인쇄를 실행한 뒤의 출력 내용입니다.",
+    "after": "안내문 내용만 남고 입력칸·키가 빠졌는지 확인합니다.",
+    "marks": [],
+    "width": 1131,
+    "height": 1600,
+    "privacy_masks": []
+  }
+}
