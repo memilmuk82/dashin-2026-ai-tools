@@ -1,32 +1,17 @@
 # 대신고 교원 연수 · 2026-10-29
 
-**AI와 대화하는 것을 넘어, 나만의 업무 도구 만들기**
+AI와 대화하는 것을 넘어, 나만의 업무 도구 만들기. 일반 교사 대상 90분.
 
-일반 교사 대상 90분 연수. HTML·CSS·Vanilla JavaScript로 구성된 정적 웹자료입니다.
+- 시작: https://memilmuk82.github.io/dashin-2026-ai-tools/
+- 발표 56장: slides.html
+- 자습 시작: selfstudy.html
+- 상세 교안 26항목: guide.html (시작 상태·입력·클릭·정상 결과·오류 대응)
+- 실습자료·예시 도구: practice/
+- 강사 시간대본: speaker-notes.html
+- 공식 근거·요금·현장 점검: resources.html
 
-- [시작](https://memilmuk82.github.io/dashin-2026-ai-tools/)
-- [발표 26장](https://memilmuk82.github.io/dashin-2026-ai-tools/slides.html)
-- [상세 실습교안](https://memilmuk82.github.io/dashin-2026-ai-tools/guide.html)
-- [참가자 실습자료](https://memilmuk82.github.io/dashin-2026-ai-tools/practice/)
-- [강사 시간대본](https://memilmuk82.github.io/dashin-2026-ai-tools/speaker-notes.html)
-- [참고자료·확인 범위](https://memilmuk82.github.io/dashin-2026-ai-tools/resources.html)
+중부교육지원청 표지 원본을 복원했습니다. 실제 Chrome 화면은 전체 위치와 조작 부분을 따로 제공합니다. 이미지를 눌러 범위·배율·원본 크기를 선택하고 스크롤·끌기로 읽을 수 있습니다. 26개 교안 앵커를 유지하면서 발표를 56장으로 나눴습니다.
 
-## 사용
+HTML/CSS/Vanilla JS. main 브랜치 루트의 GitHub Pages. 공개 반영은 사용자 승인 범위에서 진행합니다. 키·개인정보·비공개 평가자료를 포함하지 않습니다. 실제 API와 학교망 검증, 무료·유료 동일 과제 비교, 폐기 완료는 실제 확인 범위를 resources.html에 구분했습니다.
 
-발표는 화살표·Home/End·번호 이동·목차 검색을 지원합니다. 상세 교안은 검색·문구 복사·전체 인쇄가 가능합니다. 폴더 전체를 내려받아 `index.html`을 열어 로컬로도 사용할 수 있습니다.
-
-26장 모두 실제 Chrome 캡처를 포함합니다. 한 장에 여러 화면이 있으면 이미지 아래 단계 버튼으로 전환하고, 이미지를 누르면 확대합니다. 상세 교안은 26항목에 단계별 화면 68개와 조작·정상 결과·오류 대응을 제공합니다. 이미지 원본은 `assets/captures/`, 캡처 설명은 `assets/captures/manifest.json`에 있습니다.
-
-실제 Claude Free에서 가상 입력·안내문 생성·누락 표시·복사 완료 안내를 관찰했습니다. Gemini는 학교 계정의 Canvas 메뉴·생성·수정 요청을 기록했으나 정상 미리보기 조작은 확인하지 못했습니다. 이 개별 관찰을 무료/유료 성능 비교로 사용하지 않습니다.
-
-## 실습과 확인 범위
-
-실습의 기본은 개인정보 없는 가상 행사 자료와 외부 전송 없는 예시 모드입니다. Solar 실제 호출은 사용자가 현장에서 API 키를 직접 입력하고 실행할 때만 수행됩니다. 프론트엔드에서 사용하는 키는 브라우저 요청에서 노출될 수 있으므로 이 구조는 연수 체험용입니다. 연수용 임시키는 2026-10-30 강사 폐기 예정입니다.
-
-API 키·교사/학생 개인정보·비공개 평가자료는 저장소에 포함하지 않습니다. 학교 무선망의 실제 API 호출, 무료/유료 제작 실측 비교, 과거 Work 원본 화면 등 미확인 항목은 `resources.html`과 `검증기록.txt`에 구분해 표시했습니다.
-
-기준일: 2026-10-28. 제품·요금·판매 조건은 원문과 견적에서 다시 확인하세요.
-
-## GitHub Pages
-
-`main` 브랜치의 루트(`/`)를 배포 원본으로 사용합니다. `.nojekyll`을 포함하며 별도 빌드·백엔드·비밀키 설정이 필요하지 않습니다.
+자료 기준: 2026-10-28. 연수 임시키 폐기 예정: 2026-10-30.
