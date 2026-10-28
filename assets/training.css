@@ -7,3 +7,48 @@ html{scroll-padding-top:24px}input{font:inherit}textarea,input[type=text],input[
 .slide-stage .slide-text li{font-size:clamp(21px,1.65vw,30px)}.slide-stage .slide-check{font-size:clamp(17px,1.25vw,23px)}.slide-stage .slide-visual .table-wrap{font-size:clamp(16px,1.25vw,21px)}@media(max-width:900px){.slide-stage .slide-text li{font-size:19px}.slide-stage .slide-check{font-size:17px}.slide-stage .slide-visual .table-wrap{font-size:15px}}
 @media print{.app-form{display:none!important}}
 h1,h2,h3,summary,.lead{word-break:keep-all;overflow-wrap:break-word}input:focus-visible{outline:3px solid var(--gold);outline-offset:3px}body[data-page=home] .table-wrap th:nth-child(-n+2),body[data-page=home] .table-wrap td:nth-child(-n+2){white-space:nowrap}@media(max-width:900px){body[data-page=home] .page-shell>h1{font-size:32px}.guide-layout{padding:0}.guide-section{padding:0}}
+/* Actual Chrome screen teaching layer, 2026-10-28. */
+.visual-slide .slide-body{grid-template-columns:minmax(235px,.7fr) minmax(0,2fr);gap:28px;align-items:stretch}
+.visual-slide .slide-heading h1{font-size:clamp(29px,2.8vw,48px);line-height:1.3}
+.visual-slide .slide-lead{font-size:clamp(17px,1.4vw,24px);margin-bottom:14px}
+.visual-slide .slide-visual{display:block;overflow:hidden;min-height:0;max-height:none}
+.visual-slide .slide-text{justify-content:center}
+.visual-takeaway{font-size:clamp(23px,2vw,34px);font-weight:800;line-height:1.55;border-left:5px solid var(--gold);padding-left:20px;margin:0 0 16px;word-break:keep-all}
+.screen-guide-link{font-size:14px;margin-top:18px;display:block}
+.screen-deck{display:flex;flex-direction:column;height:100%;min-height:0;gap:8px}
+.screen-figure{margin:0;min-height:0;display:flex;flex:1;flex-direction:column;gap:7px}
+.screen-button{display:block;position:relative;padding:0;background:#e8ece8;border:1px solid #b1c3bb;border-radius:9px;overflow:hidden;min-height:0;flex:1;width:100%;cursor:zoom-in}
+.screen-button img,.slide-visual .screen-button img{width:100%;height:100%;object-fit:contain;display:block;max-height:none}
+.zoom-hint{position:absolute;right:8px;bottom:8px;background:#152e36e8;color:white;font-size:12px;padding:3px 9px;border-radius:4px}
+.screen-figure figcaption{font-size:13px;line-height:1.5;color:#354e54;margin:0;flex:none}
+.screen-figure figcaption strong{display:block;color:var(--ink);font-size:16px;line-height:1.5;margin-bottom:3px}
+.screen-figure figcaption b{background:var(--teal);color:white;border-radius:4px;padding:1px 6px;margin-right:5px;font-size:13px}
+.screen-figure figcaption span{display:block}
+.screen-figure figcaption small{display:block;font-size:10px;color:var(--muted);margin-top:3px}
+.screen-tabs{display:flex;gap:6px;overflow-x:auto;flex:none;padding:2px 0 5px;max-width:100%;white-space:nowrap;scrollbar-width:thin}
+.screen-tabs button{font-size:11px;padding:5px 8px;min-height:30px;flex:none;border:1px solid #b6c8c1;background:#fff;color:var(--ink)}
+.screen-tabs button[aria-pressed=true]{background:var(--teal);color:white;border-color:var(--teal)}
+.screen-walkthrough{border-top:2px solid var(--teal);margin:25px 0;padding:0 0 14px}
+.screen-walkthrough .screen-figure{margin:24px 0 36px;gap:12px;break-inside:avoid}
+.screen-walkthrough .screen-button{flex:none;background:#e9ede8}
+.screen-walkthrough .screen-button img{height:auto;max-height:620px;object-fit:contain}
+.screen-walkthrough .screen-figure figcaption{font-size:16px;line-height:1.8}
+.screen-walkthrough .screen-figure figcaption strong{font-size:21px}
+.screen-walkthrough .screen-figure figcaption small{font-size:11px}
+.guide-keypoints{padding:15px 20px 15px 38px;background:var(--light)}
+#screen-view{width:min(1350px,97vw);max-width:97vw;max-height:95dvh;padding:20px}
+.screen-view-scroll{overflow:auto;max-height:70dvh;background:#e8ece8;overscroll-behavior:contain}
+.screen-view-scroll img{display:block;width:auto;max-width:100%;height:auto;margin:auto}
+.screen-view-caption{font-size:14px;line-height:1.7}
+.price-summary{border:1px solid var(--line);background:white;padding:12px;font-size:13px;line-height:1.6}
+.price-summary strong,.price-summary span,.price-summary small{display:block}
+.price-summary span{padding:5px 0;border-bottom:1px solid var(--line)}
+.price-summary small{font-size:10px;line-height:1.6;margin-top:6px}
+.planning-excerpt{margin:0;font-size:14px;border-left:3px solid var(--teal);padding-left:12px;line-height:1.9}
+.planning-excerpt small{display:block;font-size:11px}
+.choice-visual{background:white;border:1px solid var(--line);padding:14px;font-size:16px;text-align:center;line-height:1.7}
+.choice-visual span,.choice-visual b{display:block}.choice-visual b{color:var(--gold)}
+.security-visual{display:flex;flex-direction:column;height:100%;gap:8px}.security-visual .diagram{padding:12px;flex:none}.security-visual .diagram h3{font-size:14px;margin-bottom:6px}.security-visual .flow{margin-bottom:8px;gap:5px}.security-visual .flow>div{padding:8px;min-width:70px;font-size:14px}.security-visual .flow small{font-size:10px}.security-visual .diagram .small{font-size:10px;margin:0}.security-visual .screen-deck{min-height:80px;flex:1}.security-visual .screen-figure figcaption span,.security-visual .screen-figure figcaption small{display:none}
+@media(max-width:900px){.visual-slide .slide-body{display:flex;flex-direction:column;gap:20px}.visual-slide .slide-visual{overflow:visible}.visual-slide .slide-text{order:2}.visual-slide .slide-heading h1{font-size:29px}.visual-slide .slide-lead{font-size:17px}.visual-takeaway{font-size:22px;margin-bottom:12px}.screen-deck{height:auto}.screen-figure .screen-button{flex:none}.screen-figure .screen-button img{height:auto;max-height:none}.screen-figure figcaption{font-size:13px}.screen-figure figcaption strong{font-size:17px}.screen-tabs button{font-size:12px}.screen-walkthrough .screen-figure figcaption{font-size:15px}.screen-walkthrough .screen-figure figcaption strong{font-size:19px}.screen-view-scroll img{max-width:none;min-width:680px;width:100%}.screen-view-caption{font-size:12px}.security-visual{height:auto}.security-visual .flow{flex-wrap:nowrap}.security-visual .flow>div{min-width:0}.price-summary{font-size:15px}.price-summary small{font-size:12px}}
+@media print{.visual-slide{height:auto;min-height:0}.visual-slide .slide-body{display:grid;grid-template-columns:1fr 2fr;gap:15px}.visual-slide .slide-heading h1{font-size:24pt}.visual-slide .slide-lead{font-size:12pt}.visual-takeaway{font-size:17pt}.slide-print .screen-deck{height:auto}.slide-print .screen-figure{display:block}.slide-print .screen-button{display:block!important;border:0;background:white;height:8cm;max-height:8cm}.slide-print .screen-button img{max-height:8cm;width:100%;height:8cm;object-fit:contain}.slide-print .screen-figure figcaption{font-size:8pt}.slide-print .screen-figure figcaption strong{font-size:10pt}.slide-print .screen-figure figcaption small{font-size:7pt}.screen-tabs,.zoom-hint,.screen-guide-link{display:none!important}.screen-walkthrough .screen-button{display:block!important;border:1px solid #aaa;background:white}.screen-walkthrough .screen-button img{max-height:11cm;width:100%;height:auto}.screen-walkthrough .screen-figure figcaption{font-size:10pt}.screen-walkthrough .screen-figure figcaption strong{font-size:12pt}.screen-walkthrough .screen-figure figcaption small{font-size:8pt}.screen-walkthrough .screen-figure{break-inside:avoid;margin:20px 0}.screen-walkthrough{border:0}.slide-print .price-summary{font-size:8pt}.slide-print .price-summary small{font-size:7pt}.slide-print .security-visual .screen-button{height:3cm;max-height:3cm}.slide-print .security-visual img{height:3cm;max-height:3cm}.planning-excerpt{font-size:9pt}.visual-slide .slide-check{font-size:11pt}}
+.note-screen .screen-deck{height:auto}.note-screen .screen-button{flex:none;max-height:420px}.note-screen .screen-button img{height:auto;max-height:420px}.note-screen{margin:20px 0}.note-screen .screen-figure figcaption{font-size:14px}
