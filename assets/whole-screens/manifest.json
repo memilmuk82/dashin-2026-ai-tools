@@ -1001,42 +1001,44 @@
     "privacy_masks": []
   },
   "gemini-preview": {
-    "source": "chrome-gemini-preview-controls-whole-r4.png",
+    "source": "chrome-gemini-app-ready-2x.png",
     "site": "Gemini Canvas",
     "url": "https://gemini.google.com/",
-    "place": "제작 대화 안에서 앱을 여는 곳",
-    "arrive": "Gemini 제작 대화의 아래쪽에 나타난 Canvas입니다. 앱을 불러오는 중의 메뉴 위치 예입니다.",
-    "after": "미리보기 선택 → 오른쪽 전체 화면을 누릅니다. 계속 회색이면 오류 대응을 확인합니다.",
+    "place": "제작 대화에서 연 정상 앱 예시",
+    "arrive": "Gemini 답변의 Canvas → 미리보기 → 화면을 넓힌 정상 앱 화면입니다.",
+    "after": "왼쪽 입력칸과 오른쪽 안내문이 보이면 앱을 사용할 준비가 된 것입니다.",
     "marks": [
       [
-        "미리보기",
+        "미리보기 선택 상태",
         [
-          1048,
-          432,
-          1138,
-          474
+          2700,
+          35,
+          2960,
+          145
         ]
       ],
       [
-        "전체 화면",
+        "입력하는 곳",
         [
-          1350,
-          432,
-          1388,
-          474
+          195,
+          950,
+          1920,
+          2170
+        ]
+      ],
+      [
+        "안내문 결과",
+        [
+          2090,
+          990,
+          3660,
+          2110
         ]
       ]
     ],
-    "width": 1919,
-    "height": 1031,
-    "privacy_masks": [
-      [
-        0,
-        959,
-        135,
-        1031
-      ]
-    ]
+    "width": 3915,
+    "height": 2250,
+    "privacy_masks": []
   },
   "claude-home": {
     "source": "chrome-claude-home-whole-r4.png",
@@ -1102,6 +1104,77 @@
     ],
     "width": 1351,
     "height": 760,
+    "privacy_masks": []
+  },
+  "initiative-form-start": {
+    "source": "chrome-initiative-form-start-r6.png",
+    "site": "Upstage × AWS · 신청서 처음",
+    "url": "https://www.upstage.ai/events/ai-initiative-2026-ko",
+    "place": "학교 유형과 담당자 정보를 쓰는 공식 신청서",
+    "arrive": "공식 신청 페이지 → PC 왼쪽 신청서를 소속 유형부터 본 화면입니다. 빈 신청서이며 실제 개인정보를 입력하지 않았습니다.",
+    "after": "초·중·고등학교를 고르고 Console 가입에 쓴 기관 공식 이메일과 같은 주소를 씁니다.",
+    "marks": [
+      [
+        "학교 유형",
+        [
+          80,
+          120,
+          402,
+          220
+        ]
+      ],
+      [
+        "Console 가입 이메일",
+        [
+          80,
+          350,
+          402,
+          390
+        ]
+      ]
+    ],
+    "width": 1358,
+    "height": 810,
+    "privacy_masks": []
+  },
+  "initiative-form-end": {
+    "source": "chrome-initiative-form-end-r6.png",
+    "site": "Upstage × AWS · 계획과 제출",
+    "url": "https://www.upstage.ai/events/ai-initiative-2026-ko",
+    "place": "사용 계획·동의·제출 단계",
+    "arrive": "같은 공식 신청서를 아래로 내린 화면입니다. 사용 계획·동의·Submit이 보입니다. 제출하지 않은 빈 신청서입니다.",
+    "after": "동의와 정보를 다시 읽고 신청자가 제출합니다. 이후 검토·승인 안내 메일을 확인합니다.",
+    "marks": [
+      [
+        "사용 계획",
+        [
+          80,
+          104,
+          402,
+          144
+        ]
+      ],
+      [
+        "동의 내용·가입 확인",
+        [
+          80,
+          255,
+          402,
+          510
+        ]
+      ],
+      [
+        "Submit 제출",
+        [
+          80,
+          542,
+          402,
+          588
+        ]
+      ]
+    ],
+    "width": 1358,
+    "height": 810,
     "privacy_masks": []
   },
   "app-print": {
