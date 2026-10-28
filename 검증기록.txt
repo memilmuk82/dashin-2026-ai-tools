@@ -1,3 +1,8 @@
+후속 게시: 2026-10-28 사용자 요청에 따라 GitHub 저장소와 GitHub Pages 공개 설정.
+저장소: https://github.com/memilmuk82/dashin-2026-ai-tools
+사이트: https://memilmuk82.github.io/dashin-2026-ai-tools/
+아래 공개 미실행 표기는 최초 로컬 검증 당시의 이력입니다.
+
 2026년 10월 29일 대신고 교원 연수 웹자료 · 로컬 검증 기록
 기록 기준: 2026-10-28 / Asia-Seoul
 
