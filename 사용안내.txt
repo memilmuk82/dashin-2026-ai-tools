@@ -1,7 +1,7 @@
 시작 index.html
 발표 slides.html: 42장, 화살표·목차·번호 이동
-자습 selfstudy.html: Gemini·Claude·접속 없는 복습 경로
-교안 guide.html: 26항목, 전체 위치·조작 부분, 입력·정상 결과·오류 대응
+자습 selfstudy.html: 90분 전체 학습 순서, 앱 실습 뒤 후반부까지 이어짐
+교안 guide.html: 전체 강의 흐름·독립 제작 경로·비용·선택·실제 강의자료 제작 사례
 이미지 확대: 조작 부분/전체 위치, 화면 맞춤/원본 100%, 배율과 끌기
 실습자료 practice/ · 강사 speaker-notes.html · 공식 근거 resources.html
 실제 키는 현장 입력, 공개·촬영·저장 전 삭제. 임시키 2026-10-30 폐기 예정.

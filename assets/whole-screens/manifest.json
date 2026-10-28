@@ -1115,5 +1115,79 @@
     "width": 1131,
     "height": 1600,
     "privacy_masks": []
+  },
+  "planning-record": {
+    "source": "chrome-planning-approval-r5.png",
+    "site": "ChatGPT · 실제 기획 대화",
+    "url": "https://chatgpt.com/",
+    "place": "강의 범위를 정하고 제작을 승인한 대화",
+    "arrive": "실제 과거 기획 대화의 끝부분입니다. 두 제작 경로·Upstage 추가·제작 전환 승인이 보입니다.",
+    "after": "사용자 지시와 승인만 확인한 기록입니다. 불러오지 못한 과거 답변의 내용은 재현하지 않습니다.",
+    "marks": [],
+    "width": 1373,
+    "height": 819,
+    "privacy_masks": [
+      [
+        0,
+        754,
+        54,
+        819
+      ]
+    ]
+  },
+  "lecture-before": {
+    "source": "chrome-lecture-before-r5.png",
+    "site": "이번 연수자료 · 수정 전 기록",
+    "url": "slides.html",
+    "place": "강의자료 자체의 실패 사례",
+    "arrive": "실제 이전 발표자료 전체 화면입니다. Canvas 메뉴 부분만 크게 제시했던 판본입니다.",
+    "after": "처음 보는 교사가 메뉴를 전체 화면에서 찾을 수 있는지 평가합니다.",
+    "marks": [],
+    "width": 1919,
+    "height": 1031,
+    "privacy_masks": []
+  },
+  "lecture-after": {
+    "source": "chrome-lecture-after-r5.png",
+    "site": "이번 연수자료 · 수정 후 기록",
+    "url": "slides.html#11",
+    "place": "강의자료 자체를 고친 결과",
+    "arrive": "실제 수정·게시한 발표자료 전체 화면입니다. 사이트와 진입 경로, 전체 화면과 클릭 위치를 함께 표시했습니다.",
+    "after": "화면 한 장의 개선과 승인한 강의 전체 범위의 충족은 따로 확인해야 합니다.",
+    "marks": [],
+    "width": 1366,
+    "height": 768,
+    "privacy_masks": []
+  },
+  "course-files": {
+    "source": "chrome-course-files-r5.png",
+    "site": "실제 제작 결과 · 강의자료 파일",
+    "url": "https://github.com/memilmuk82/dashin-2026-ai-tools",
+    "place": "앱 예제가 아닌 이번 강의자료 전체의 산출물",
+    "arrive": "이번 연수자료의 실제 GitHub 저장소입니다. 공개 승인 뒤 발표·교안·실습·강사노트를 게시했습니다.",
+    "after": "파일이 있다는 사실과 교사가 이해할 수 있다는 판단을 구분해 검토합니다.",
+    "marks": [],
+    "width": 1358,
+    "height": 755,
+    "privacy_masks": [
+      [
+        1286,
+        0,
+        1358,
+        86
+      ]
+    ]
+  },
+  "work-official": {
+    "source": "chrome-work-official.png",
+    "site": "ChatGPT Work · 공식 설명 화면",
+    "url": "https://learn.chatgpt.com/docs/get-started-with-work",
+    "place": "완료할 결과물을 맡기는 방식의 공식 안내",
+    "arrive": "OpenAI 공식 Work 시작 안내 페이지입니다. 과거 제작 작업의 캡처가 아닙니다.",
+    "after": "질문에 답을 받는 Chat과 검토할 결과물까지 맡기는 Work를 구분합니다.",
+    "marks": [],
+    "width": 1372,
+    "height": 762,
+    "privacy_masks": []
   }
 }
