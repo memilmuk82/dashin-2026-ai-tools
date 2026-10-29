@@ -1262,5 +1262,36 @@
     "width": 1372,
     "height": 762,
     "privacy_masks": []
+  },
+  "claude-html-menu": {
+    "source": "chrome-claude-html-download-whole-r7.png",
+    "site": "Claude · HTML 파일 저장 메뉴",
+    "url": "https://claude.ai/",
+    "place": "HTML 파일 카드가 나온 경우의 다른 저장 경로",
+    "arrive": "Claude 답변의 코드·HTML 파일 카드 → 오른쪽 HTML 미리보기 → 위쪽 복사 옆 ∨(더 많은 옵션)을 누른 실제 화면입니다.",
+    "after": "HTML 형식으로 다운로드를 고른 뒤 Ctrl+J에서 받은 .html 파일을 확인합니다. 이 화면은 2026-10-29 로그인된 유료 계정의 메뉴 관찰이며 무료 플랜 실측으로 쓰지 않습니다.",
+    "marks": [
+      [
+        "파일 미리보기의 더 많은 옵션",
+        [
+          819,
+          3,
+          859,
+          39
+        ]
+      ],
+      [
+        "HTML 다운로드",
+        [
+          668,
+          42,
+          855,
+          84
+        ]
+      ]
+    ],
+    "width": 958,
+    "height": 974,
+    "privacy_masks": []
   }
 }
